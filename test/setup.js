@@ -19,4 +19,4 @@ jsdom( {
   html,
   src,
   url: "http://localhost"
-} );
+});
